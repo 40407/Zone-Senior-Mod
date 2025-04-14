@@ -1,5 +1,5 @@
 # Zone-Senior-Mod
-
+### ZoneMod竞技配置框架是必要的: https://github.com/SirPlease/L4D2-Competitive-Rework/
 **注解：**
 
 **范围(Range)：武器的有效射程，2200大约40m，2500大约50m，3000大约60m**
