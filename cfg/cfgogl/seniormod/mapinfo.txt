@@ -3124,7 +3124,38 @@
 			"pain_pills"    "5"
 		}
 	}
-
+//=======================================================================	
+//===============front of survivors 生还之锋
+	"fos1m3_factory"
+	{
+		"tank_ban_flow"
+		{
+			"late"
+			{
+				"min"		"44"
+				"max"		"66"
+			}
+		}
+		"ItemLimits"
+		{
+			"pain_pills"	"3"
+		}
+	}
+	"fos1m5_92farm"
+	{
+		"tank_ban_flow"
+		{
+			"late"
+			{
+				"min"		"68"
+				"max"		"99"
+			}
+		}
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
 
 
 
