@@ -1,4 +1,4 @@
-# ZoneSenior 进阶zm
+# SeniorMod
 ### ZoneMod竞技配置框架是必要的: https://github.com/SirPlease/L4D2-Competitive-Rework/
 **注解：**
 
@@ -20,7 +20,7 @@
 
 `　　　　`－　范围(Range): 3000
 
-`　　　　`－　增益范围(Gainrange): **1200**
+`　　　　`－　增益范围(Gainrange): **1000**
 
 `　　　　`－　范围系数(Range Modifier): **0.81**
 
@@ -82,15 +82,15 @@
 
 `　　　`○　伤害:
 
-`　　　　`－　基础伤害: **52** 伤害
+`　　　　`－　基础伤害: **53** 伤害
 
 `　　　`○　远距离伤害衰减:
 
 `　　　　`－　范围(Range): 3000
 
-`　　　　`－　增益范围(Gainrange): **900**
+`　　　　`－　增益范围(Gainrange): **500**
 
-`　　　　`－　范围系数(Range Modifier): **0.81**
+`　　　　`－　范围系数(Range Modifier): **0.84**
 
 `　　　`○　弹夹容量: **30** ( **390** total)
 
