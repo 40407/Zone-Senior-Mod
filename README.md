@@ -1,15 +1,6 @@
-# SeniorMod
-### ZoneMod竞技配置框架是必要的: https://github.com/SirPlease/L4D2-Competitive-Rework/
-**注解：**
-
-**范围(Range)：武器的有效射程，3000大约60m**
-
-**范围系数(Range Modifier)：每过一段距离伤害减少为范围系数的倍数**
-
-**增益范围(Gainrange)：距离大于增益范围，武器伤害会以一个极高的速度衰减**
-
-**最大渗透距离(PenetrationMaxDistance)：喷子在该范围内有穿透**
-
+# SeniorAWP
+### AWP伤害205，弹夹5
+# SeniorTier2
 `　`※　M16 (rifle)
 
 `　　　`○　伤害:
