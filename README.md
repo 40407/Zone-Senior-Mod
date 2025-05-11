@@ -1,3 +1,5 @@
+# Senior Old School
+### 猎枪射速降低
 # SeniorAWP
 ### AWP伤害205，弹夹5
 # SeniorTier2
