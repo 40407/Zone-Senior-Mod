@@ -1,5 +1,3 @@
-# Senior Old School
-### 猎枪射速降低
 # SeniorAWP
 ### 1. AWP伤害205，弹夹5
 ### 2. UZI 64发
