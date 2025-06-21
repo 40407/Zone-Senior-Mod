@@ -1,6 +1,3 @@
-# SeniorAWP
-### 1. AWP伤害205，弹夹5
-### 2. 新增MP5
 # SeniorTier2
 ### 只有大枪，数据如下：
 `　`※　M16 (rifle)
